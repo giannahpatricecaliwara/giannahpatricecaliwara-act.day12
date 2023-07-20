@@ -1,0 +1,19 @@
+h1, h2, h3 {
+    color: #2e7d32 ;
+    font-weight: 110;
+}
+
+
+p {
+    font-weight: 150;
+}
+
+
+.image12-img {
+    padding: 40px 10px 5px 5px;
+}
+
+.image12-link {
+    color: #2e7d32 ;
+    font-weight: 140;
+}
